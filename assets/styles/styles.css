@@ -1,0 +1,13 @@
+#header{
+background-color: blue;
+height: 50px;
+}
+
+#logo{
+float: left;
+margin: 30px;
+}
+
+.boton{
+	margin: 0 15px;
+}
